@@ -12,6 +12,9 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+    labels:
+      - "actions"
+
 
   - package-ecosystem: "yarn"
     directory: "/"
@@ -20,3 +23,6 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+    labels:
+      - "yarn"
+      - "dependancies"
