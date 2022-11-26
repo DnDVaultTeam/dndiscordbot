@@ -1,0 +1,17 @@
+.gitignore
+.git
+.github
+.vscode
+.nvmrc
+.npmrc
+Dockerfile
+**/*.md
+.env*
+node_modules
+dist
+.eslint*
+.prettier*
+.husky
+.dockerignore
+docker-compose.yml
+commitlint.config.js
