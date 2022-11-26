@@ -16,7 +16,7 @@ updates:
       - "actions"
 
 
-  - package-ecosystem: "yarn"
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
@@ -24,5 +24,5 @@ updates:
       prefix: "chore"
       include: "scope"
     labels:
-      - "yarn"
+      - "npm"
       - "dependancies"
