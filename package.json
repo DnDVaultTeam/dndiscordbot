@@ -40,7 +40,7 @@
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
-    "@prisma/client": "^4.6.1",
+    "@prisma/client": "^4.7.1",
     "discord.js": "^14.6.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
