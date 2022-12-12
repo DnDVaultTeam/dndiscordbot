@@ -62,7 +62,7 @@
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "husky": "^8.0.1",
+    "husky": "^8.0.2",
     "jest": "28.0.3",
     "prettier": "^2.8.0",
     "prisma": "^4.7.1",
