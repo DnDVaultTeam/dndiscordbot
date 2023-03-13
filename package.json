@@ -60,7 +60,7 @@
     "@typescript-eslint/parser": "^5.52.0",
     "cross-env": "^7.0.3",
     "eslint": "^8.29.0",
-    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier": "^8.7.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^8.0.2",
     "jest": "28.0.3",
